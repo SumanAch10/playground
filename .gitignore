@@ -1,0 +1,28 @@
+# Datasets / large binaries
+CNN/data/
+*.tar.gz
+*.zip
+
+# Model weights
+CNN/model/
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
